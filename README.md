@@ -1,4 +1,4 @@
-# Yelp
+# NomNom
 
 This clone of Yelp was created during week 8 of Makers' Academy by Keran Braich, Kesha Kumshayev, Rhys Kyte, Nikolaos Sakarellios, Calum Widdall and Tim Williamson. It was our first project using Rails and completed in 5 days.
 
